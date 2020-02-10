@@ -52,7 +52,7 @@ describe('basic math functions', function () {
 
 describe('makeInt(n)', function() {
   it('parses n as an integer and returns the parsed integer', function() {
-    expect(makeInt(n())).toEqual('n')
+    expect(makeInt(a.toString())).toEqual(a)
   })
 
   it('assumes base 10', function() {
