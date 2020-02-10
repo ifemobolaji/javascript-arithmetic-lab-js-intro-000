@@ -34,5 +34,5 @@ function hey() {
   return g
 }
 function makeInt(n) {
-  parseInt(9.63, 10)
+  return parseInt(n, 10)
 }
