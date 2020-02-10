@@ -34,7 +34,7 @@ function hey() {
   return g
 }
 function makeInt(n) {
-  return parseInt(string, 10)
+  return parseInt('n', 10)
 }
 
 function preserveDecimal(string) {
