@@ -24,11 +24,11 @@ function divide(d, c) {
 }
 
 function increment(n) {
-  return n+=
+  return n++
 }
 
 function decrement(n) {
-  return n-=
+  return n--
 }
 function hey() {
   return g
