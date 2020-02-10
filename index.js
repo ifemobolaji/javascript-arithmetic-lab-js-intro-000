@@ -33,3 +33,6 @@ function decrement(n) {
 function hey() {
   return g
 }
+function makeInt(n) {
+  parseInt(9.63, 10)
+}
